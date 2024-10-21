@@ -17,13 +17,11 @@ Classic ping-pong game written in c++17 and played in terminal
 ##### Install Packages
 **Arch**
 ```
-pacman -S ncurses
-pacman -S ninja
+pacman -S ncurses ninja
 ```
 **Ubuntu**
 ```
-sudo apt-get install libncurses5-dev libncursesw5-dev
-sudo apt-get install ninja-build
+sudo apt-get install libncurses5-dev libncursesw5-dev ninja-build
 ```
 
 **Install Ninja**
